@@ -53,4 +53,3 @@ public class Vasarlo {
 				+ ", vasarlot_osszeg=" + vasarlotOsszeg + ", vasarlo_adatok=" + vasarloAdatok + "]";
 	}
 }
-
